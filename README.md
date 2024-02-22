@@ -1,2 +1,2 @@
-# meu-primeiro-repositorio
+# meu-primeiro-repo
 Primeiro repositório da faculdade
