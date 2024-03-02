@@ -1,0 +1,31 @@
+.div_1 {
+    background-color: #8400FF; 
+    width: 435px; 
+    height: 400px;
+}
+
+.div_2 {
+    background-color: #043E35; 
+    width: 180px; 
+    height: 180px;
+}
+
+.text {
+    color: yellow; 
+    background-color: lightsalmon; 
+    font-size: 30px; 
+    font-family: 'Times New Roman'; 
+    font-weight: 400;
+}
+
+.div_3 {
+    width: 600px; 
+    height: 70vh; 
+    background-color: rgb(103, 127, 39);
+}
+
+.div_4 {
+    width: 40vw; 
+    height: 10vh; 
+    background-color: rgb(25, 25, 100);
+}
